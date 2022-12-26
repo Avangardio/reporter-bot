@@ -7,7 +7,7 @@ import { TAPIService } from './TAPI.service';
   //Ипортируем Телеграф для текущего модуля
   imports: [
     TelegrafModule.forRoot({
-      token: '5885040927:AAFzxlIEM-v_C554133BN4Ylj6ANPR7oLwg',
+      token: 'ТОКЕН БОТА ТЕЛЕГРАММА',
       middlewares: [session()],
     }),
   ],
