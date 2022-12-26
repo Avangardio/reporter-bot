@@ -1,0 +1,14 @@
+module.exports = {
+  type: 'service_account',
+  project_id: 'avangardioapp',
+  private_key_id: '4b8f9d486bef70518b5cea5f0dbe27c0295b0612',
+  private_key:
+    '-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+ml74LAWKLsxp\npeVwnCY8zjZ+QVzQ86uvcY15sJCYa1nf2TWGDieJ2MrUDZ86Hmg24f0CbJt422lD\nHLuwqn20b4SiSfW7sXQ7MkXHD0XQ9Q7S6sSnhDY0LVYu3J8jDKEHPvRoALHi9ANT\nlUrIA2Y/uUKJ0NRxSNy0QhcqjgYVF9wZLRQygrelGsg90kRfItzwZFOgPDw8EGDV\nZmGNr24QtyVaigHUfqIz2o3ZpMs5uQMejrJlZyh+AmIZvkYmfvp/3t4akIFMf9mM\nkU+MejsPAdOgamPYxcspkz6ANgTpwRzV6MiK2DY5sTWF2AmMOELZPRYLsMTsln/Z\ndm9SI2mFAgMBAAECggEAA8yU6jjXNW1mxdy4j/MoCfWisKD1GVvtOjzqF0v1kRKW\nth3T8ZbOCYyolYVEY4atCICedLidResg4OV6OKfCHXrmXf7zM6k/I8AfrVUr5mHa\ne7Be3ueFb93PEw9y6cjVjtm3SmybhYAPbun4Lx6hbTfwNrBsagOlrowgseImoEks\nFeSmSuTootphasWKHheCloyIoDIKWq4H4zvstOM4caOGTSYdZsORlDzjcoMwSegm\nnGh6IgonUkTJVL1IQgXKxWl7wXnHSchhcnwjW5HPm5SeBmhmpSneiE9RszED6jVv\n6NGkCUXrttsOfV3claN4D3v+hg0OjC/X7xfdauVU8QKBgQD7KB6bVsxhosOg/ppR\nt4GFDsW6l5hQccp5IMkptlKLcRUcSTKjhrqvuRTEUiUiEJ68hNxCglwsQQ4aBdIc\nB/D3VufS2gdFyjxhYwReWT2kkLBqoXfQeWj8TEMSWdfQ1zQcitRA693fXcLVNLZ0\nPC97zAJ0IASD9WnhLeCc1igcLQKBgQDCR1EvKefGLBRaEnyAYGh5yvDuX9rmxO0J\nnaTGVMLJBJC+IfnrHWKtW8anBKjptw7Y1//RopcEEppUcE1AEUII4bLK8Q/plHm/\nheBhGXPlX9bY6U6YKUVj2PjYRW1Av0qF/rMUvRuAHbmhg0BIQYCOgL6edm0DcOAg\nl+jkqKJhuQKBgF2BBzwP6ZFj9m8muq83oXm3ETgxnhw88QN9iEcGQN73H8PjIH4u\n96vaPPgGGRsAkwhecl40iDpVkflwN1QGRNjguvgOAe0iqK4dHhA+KyvsTjG0oZW0\nzbg4cDQRzL5MkHMb4H+3EGhLUPDtagwGKCtvvW4cSXITWPLjkJ7zQAWVAoGAcyNB\nAeqb6d6F0TvTfWGliUi0sREt8kYTFPfQh5oENo32GjiYnLa1nHgfqywfzyMmMW0R\nt3PcfBVqUVCc97NCp3DbPVrQS2YrIU5+RA2Jmg7KjZL3eUY8UYhtMf8zWIQF7pOc\nHlZUzgDP2uCmYCwxvEKgtdkJklh6+9YLuDgYxEECgYAHDmhdk7e3G1X2oPt249Nq\nNVRygvMqnYHeEBV6duOdEckNl7MTOGPEueEdHNurtgFAxtYjlk2FMKNIpyVaL9Hc\n44gdgCLtK+ZmJ54wTown6p/dzosxE8jDvEcIVPROVn6eTJS+PyPUQJG4xx3IqKuq\n9MiNntrKqcaK5C/C3Xmo6Q==\n-----END PRIVATE KEY-----\n',
+  client_email: 'sheetapi@avangardioapp.iam.gserviceaccount.com',
+  client_id: '107654595193166950232',
+  auth_uri: 'https://accounts.google.com/o/oauth2/auth',
+  token_uri: 'https://oauth2.googleapis.com/token',
+  auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
+  client_x509_cert_url:
+    'https://www.googleapis.com/robot/v1/metadata/x509/sheetapi%40avangardioapp.iam.gserviceaccount.com',
+};
