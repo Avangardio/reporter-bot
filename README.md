@@ -32,6 +32,14 @@ $ npm run start
 $ npm run start:dev
 ```
 
+## Используемые библиотеки
+  <ul>
+    <li><a href='https://www.npmjs.com/package/nestjs-telegraf'>Nest-Telegraf</a> - библиотека telegraf, адаптированная под NestJS.
+    <li><a href='https://nestjs.com'>NestJS</a> - Node.js фреймворк для сервера.
+    <li><a href='https://axios-http.com/docs/intro'>Axios</a> - отличная библиотека для создания и отправки запросов.
+    <li><a href='https://pptr.dev/'>Puppeteer</a> - Практически сердце приложения, позволяет управлять "марионетками" для действий на сайтах.
+  </ul>
+  
 ## Разработчики
   
 - Автор - [Белянин Артем](https://github.com/Avangardio)
