@@ -6,7 +6,7 @@ const { private_key, client_email } = require('../conf');
 
 //добавляем ключ для спрешдщита
 const doc = new GoogleSpreadsheet(
-  '1btBFKN3zT5lLBZa5BtQloXD1fJTgCWI6DpWU9eTm1dk',
+  'Айди таблицы гугл',
 );
 //тип видео: ссылка и таймкод
 type VideoReportType = {
